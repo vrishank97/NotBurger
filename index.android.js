@@ -50,4 +50,5 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('NotBurger', () => NotBurger);
+//AppRegistry.registerComponent('NotBurger', () => NotBurger);
+//AppRegistry.registerComponent('LotsOfGreetings', () => LotsOfGreetings);

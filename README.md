@@ -1,2 +1,0 @@
-# NotBurger
-Inpired from NotHotdog

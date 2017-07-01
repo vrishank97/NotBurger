@@ -54,5 +54,5 @@ const styles = StyleSheet.create({
   }
 });
 
-AppRegistry.registerComponent('BadInstagramCloneApp', () => BadInstagramCloneApp);
+
 AppRegistry.registerComponent('NotBurger', () => NotBurger);

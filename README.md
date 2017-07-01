@@ -1,10 +1,3 @@
-# SnapChat
-SnapChat Swag
+# NotBurger
 
-# Demo
-https://www.youtube.com/watch?v=sStf_ZbTXss
-
-#Run App
-- Clone
-- npm install in the terminal
-- Run on IOS emulator or Android
+A NotHotdog clone using React Native

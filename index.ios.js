@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 import Camera from 'react-native-camera';
 
-class BadInstagramCloneApp extends Component {
+class NotBurger extends Component {
   render() {
     return (
       <View style={styles.container}>

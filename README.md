@@ -1,11 +1,10 @@
-#### `Run example`
+# SnapChat
+SnapChat Swag
 
-From project root run through cli:
-- `cd Example/`
-- `npm install`
+# Demo
+https://www.youtube.com/watch?v=sStf_ZbTXss
 
-For Android:
-- `react-native run-android`
-
-For iOS:
-- `react-native run-ios`
+#Run App
+- Clone
+- npm install in the terminal
+- Run on IOS emulator or Android

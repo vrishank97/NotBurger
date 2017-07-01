@@ -1,6 +1,17 @@
-import React from 'react';
-import { AppRegistry } from 'react-native';
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ * @flow
+ */
 
-import Example from './Example';
+import React, { Component } from 'react';
+import {
+  AppRegistry,
+  StyleSheet,
+  Text,
+  View
+} from 'react-native';
+import SnapChat from './App/containers/app';
 
-AppRegistry.registerComponent('Example', () => Example);
+
+AppRegistry.registerComponent('SnapChat', () => SnapChat);
